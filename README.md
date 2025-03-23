@@ -1,14 +1,21 @@
-<a href="https://top.gg/bot/623481583411658753"><img src="https://i.imgur.com/6mEvOsh.png" width="100%" height="auto"/></a>
+<img src="https://i.imgur.com/3JFlubf.png" width="100%" height="auto"/>
 <p align="center">
-  <a href="https://youtube.com/@robbyz512"><img width="72px" alt="Youtube" title="Youtube" src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000"/></a>
+  <a href="https://youtube.com/@robbyz512"><img width="32px" alt="Youtube" title="Youtube" src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://x.com/robbyz512"><img width="72px" alt="Twitter" title="Twitter" src="https://img.icons8.com/?size=100&id=ClbD5JTFM7FA&format=png&color=000000"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href=""><img width="72px" alt="Twitter" title="Twitter" src="https://img.icons8.com/?size=100&id=30998&format=png&color=000000"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://x.com/robbyz512"><img width="72px" alt="Twitter" title="Twitter" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://x.com/robbyz512"><img width="32px" alt="Twitter" title="Twitter" src="https://img.icons8.com/?size=100&id=ClbD5JTFM7FA&format=png&color=000000"/></a>
 </p>
+
+# Hey, I'm Robby 👋
+
+I'm interested in all things **web development**, **game development**, **reverse engineering**, and **game hacking**. And probably much more.
+
+---
+
+### 📞 Contact Me:
+- **Discord**: robbyz
+- **Email**: [robattila128@gmail.com](mailto:robattila128@gmail.com)
+
+Contact me if you want to build something.
 
 ## 📖 Languages 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![rAthena](https://img.shields.io/badge/rAthena-%230092BC.svg?style=for-the-badge&logo=mysql&logoColor=white)
