@@ -1,15 +1,15 @@
-# 💫 About Me:
-I work on web development for all types of websites, game development, reverse engineering, and game hacking.
+<a href="https://top.gg/bot/623481583411658753"><img src="https://i.imgur.com/6mEvOsh.png" width="100%" height="auto"/></a>
+<p align="center">
+  <a href="https://youtube.com/@robbyz512"><img width="72px" alt="Youtube" title="Youtube" src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://x.com/robbyz512"><img width="72px" alt="Twitter" title="Twitter" src="https://img.icons8.com/?size=100&id=ClbD5JTFM7FA&format=png&color=000000"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href=""><img width="72px" alt="Twitter" title="Twitter" src="https://img.icons8.com/?size=100&id=30998&format=png&color=000000"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://x.com/robbyz512"><img width="72px" alt="Twitter" title="Twitter" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
 
-## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/robbyz512) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@robbyz512)
-
-### 📞 Contact:
-- **Discord**: **robbyz**  
-- **Email**: **[robattila128@gmail.com](mailto:robattila128@gmail.com)**  
-
-
-# 💻 Tech Stack:
 ## 📖 Languages 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![rAthena](https://img.shields.io/badge/rAthena-%230092BC.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -27,3 +27,5 @@ I work on web development for all types of websites, game development, reverse e
 
 ## 🎮 Game Engines  
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)  
+
+![Abhinandan Trilokia](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
